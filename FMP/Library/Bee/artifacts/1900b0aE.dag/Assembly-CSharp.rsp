@@ -404,6 +404,7 @@
 "Assets/Imported Assets/8K Skybox Pack Free/Example Scenes/Script/RotateCamera.cs"
 "Assets/Imported Assets/Game Buffs/Free Realistic Textures/Scripts/GameBuffsInitializer.cs"
 "Assets/Scripts/FPSController.cs"
+"Assets/Scripts/Patrolling.cs"
 -langversion:9.0
 
 /deterministic
