@@ -403,6 +403,7 @@
 "Assets/Imported Assets/#NVJOB Water Shaders V2/Example Scenes/PostProcessing/Utilities/CustomMotionTexture/ExampleWheelController.cs"
 "Assets/Imported Assets/8K Skybox Pack Free/Example Scenes/Script/RotateCamera.cs"
 "Assets/Imported Assets/Game Buffs/Free Realistic Textures/Scripts/GameBuffsInitializer.cs"
+"Assets/Scripts/FPSController.cs"
 -langversion:9.0
 
 /deterministic
