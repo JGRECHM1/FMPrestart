@@ -1175,3 +1175,107 @@ Received Import Request.
 Start importing Assets/Imported Assets/3D Low-Poly Tables using Guid(4cf68e65f2715da4682d47a42f13e0d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32c81bf53f4aee283d1dbc41e701e59a') in 0.000555 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 74.078771 seconds.
+  path: Assets/Imported Assets/SubstanceAssets
+  artifactKey: Guid(0ed0a0aa2838a33419b2545c44100d63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/SubstanceAssets using Guid(0ed0a0aa2838a33419b2545c44100d63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '257757ce6402afc8ec8f45bef1abd9fe') in 0.000387 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 17.887235 seconds.
+  path: Assets/Imported Assets/3D Low-Poly Tables/Prefabs/Table 1 Obj.prefab
+  artifactKey: Guid(43790b14bbe91204e99415a5db21a713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/3D Low-Poly Tables/Prefabs/Table 1 Obj.prefab using Guid(43790b14bbe91204e99415a5db21a713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3e43f21fa127f99ced6558989c5d087') in 0.159412 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.472658 seconds.
+  path: Assets/Imported Assets/3D Low-Poly Tables/Prefabs/Table 1.prefab
+  artifactKey: Guid(0aa495299b846c3438f6a5851b7cd3b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/3D Low-Poly Tables/Prefabs/Table 1.prefab using Guid(0aa495299b846c3438f6a5851b7cd3b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cb3f6a051a14dd634ca710679404866') in 0.017219 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 13
+========================================================================
+Received Import Request.
+  Time since last request: 0.755511 seconds.
+  path: Assets/Imported Assets/3D Low-Poly Tables/Prefabs/Table 2 Obj.prefab
+  artifactKey: Guid(1f2a61912d14f4c40ab1041682bd23cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/3D Low-Poly Tables/Prefabs/Table 2 Obj.prefab using Guid(1f2a61912d14f4c40ab1041682bd23cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1fc7650b0cd1ecc57cc235fd6016be0') in 0.016015 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.471672 seconds.
+  path: Assets/Imported Assets/3D Low-Poly Tables/Prefabs/Table 2.prefab
+  artifactKey: Guid(d2de4750ab5aaf840a348925be60eb9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/3D Low-Poly Tables/Prefabs/Table 2.prefab using Guid(d2de4750ab5aaf840a348925be60eb9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8445ebd79ad645f6fd8c7d851f4039f9') in 0.016673 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 13
+========================================================================
+Received Import Request.
+  Time since last request: 0.380411 seconds.
+  path: Assets/Imported Assets/3D Low-Poly Tables/Prefabs/Table 3 Obj.prefab
+  artifactKey: Guid(35f03eadcda65a741af75d0fe9f7bb61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/3D Low-Poly Tables/Prefabs/Table 3 Obj.prefab using Guid(35f03eadcda65a741af75d0fe9f7bb61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a125632aa41cae4dc63a2c5348aefb17') in 0.015986 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 1.016919 seconds.
+  path: Assets/Imported Assets/3D Low-Poly Tables/Prefabs/Table 3.prefab
+  artifactKey: Guid(192a79fde5afd7640b6884a45bdc28f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/3D Low-Poly Tables/Prefabs/Table 3.prefab using Guid(192a79fde5afd7640b6884a45bdc28f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '393b823bf016a7e70f93ee60ca713eda') in 0.014998 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 13
+========================================================================
+Received Import Request.
+  Time since last request: 240.354187 seconds.
+  path: Assets/Imported Assets/SubstanceAssets/AssortedHeadwearPack/GreekHelmetsPack/CorinthianHelmet/Prefabs/CorinthianHelmet_Black.prefab
+  artifactKey: Guid(fd8cb5efb5b77e24d8bf58f693f5ea6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/SubstanceAssets/AssortedHeadwearPack/GreekHelmetsPack/CorinthianHelmet/Prefabs/CorinthianHelmet_Black.prefab using Guid(fd8cb5efb5b77e24d8bf58f693f5ea6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b02af0ef8cd92a7679d88b6877e49cb7') in 0.173551 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 43
+========================================================================
+Received Import Request.
+  Time since last request: 0.772190 seconds.
+  path: Assets/Imported Assets/SubstanceAssets/AssortedHeadwearPack/GreekHelmetsPack/CorinthianHelmet/Prefabs/CorinthianHelmet_Bronze.prefab
+  artifactKey: Guid(dd5dec63dd2b5494590ac688cc340795) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/SubstanceAssets/AssortedHeadwearPack/GreekHelmetsPack/CorinthianHelmet/Prefabs/CorinthianHelmet_Bronze.prefab using Guid(dd5dec63dd2b5494590ac688cc340795) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e487cae593596e9bb7e2e876faa64c7') in 0.018709 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 45
+========================================================================
+Received Import Request.
+  Time since last request: 0.403871 seconds.
+  path: Assets/Imported Assets/SubstanceAssets/AssortedHeadwearPack/GreekHelmetsPack/CorinthianHelmet/Prefabs/CorinthianHelmet_Rustic.prefab
+  artifactKey: Guid(f440c1e22e434b4438e44dac256a5b9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/SubstanceAssets/AssortedHeadwearPack/GreekHelmetsPack/CorinthianHelmet/Prefabs/CorinthianHelmet_Rustic.prefab using Guid(f440c1e22e434b4438e44dac256a5b9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f74261b5c4c0301427ea3a3bb5e65f8') in 0.017705 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 45
+========================================================================
+Received Import Request.
+  Time since last request: 504.062590 seconds.
+  path: Assets/Imported Assets/Barrels/Barrel1_LOD.prefab
+  artifactKey: Guid(1c5a9772a26e4b74991250d48f83f849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Barrels/Barrel1_LOD.prefab using Guid(1c5a9772a26e4b74991250d48f83f849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf98797a23e1aa3b1549fc34cdf67658') in 0.103041 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 22
+========================================================================
+Received Import Request.
+  Time since last request: 0.804454 seconds.
+  path: Assets/Imported Assets/Barrels/Barrel2_LOD.prefab
+  artifactKey: Guid(835d59177d8bad543a70828252cdccaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Barrels/Barrel2_LOD.prefab using Guid(835d59177d8bad543a70828252cdccaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c2709ee4cc002bf691ca4f39d117e7b') in 0.035357 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 22
+========================================================================
+Received Import Request.
+  Time since last request: 0.611198 seconds.
+  path: Assets/Imported Assets/Barrels/Barrel3_LOD.prefab
+  artifactKey: Guid(1bfa92ca112491842ad5e3fb6b5ab535) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Barrels/Barrel3_LOD.prefab using Guid(1bfa92ca112491842ad5e3fb6b5ab535) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3f2417c6f81858d4ca4e01acb496864') in 0.030056 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 22
