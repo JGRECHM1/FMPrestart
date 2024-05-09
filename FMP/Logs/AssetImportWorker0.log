@@ -2101,3 +2101,59 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 277.217662 seconds.
+  path: Assets/Imported Assets/Oode studios
+  artifactKey: Guid(8ea22658c6dd6604b9d96b301c2918e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Oode studios using Guid(8ea22658c6dd6604b9d96b301c2918e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eea8bce8d55164616e311019c019be11') in 0.005881 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 5.366844 seconds.
+  path: Assets/Imported Assets/Oode studios/Lowpoly nature/Prefabs/Camp fire/Camp fire.prefab
+  artifactKey: Guid(b3205841b2c54e84e941859841c61959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Oode studios/Lowpoly nature/Prefabs/Camp fire/Camp fire.prefab using Guid(b3205841b2c54e84e941859841c61959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '274bf28d3c5cbe1735388a7ecbce1f0d') in 0.068316 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 13.360005 seconds.
+  path: Assets/Imported Assets/Oode studios/Lowpoly nature/Textures/Camp fire/Camp fire.png
+  artifactKey: Guid(c6e466217e16d5845a8ec1da900918d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Oode studios/Lowpoly nature/Textures/Camp fire/Camp fire.png using Guid(c6e466217e16d5845a8ec1da900918d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea1ab51d66b54947863c2b47806a4d0c') in 0.016949 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 12.534746 seconds.
+  path: Assets/Imported Assets/Oode studios/Lowpoly nature/Prefabs/Camp fire/Camp fire.prefab
+  artifactKey: Guid(b3205841b2c54e84e941859841c61959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Oode studios/Lowpoly nature/Prefabs/Camp fire/Camp fire.prefab using Guid(b3205841b2c54e84e941859841c61959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8562aa874782529785f1e5ef8b11e4ae') in 0.010664 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 18.637401 seconds.
+  path: Assets/Imported Assets/Oode studios/Lowpoly nature/Prefabs/Camp fire/Camp fire.prefab
+  artifactKey: Guid(b3205841b2c54e84e941859841c61959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Oode studios/Lowpoly nature/Prefabs/Camp fire/Camp fire.prefab using Guid(b3205841b2c54e84e941859841c61959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7a361249edb855c5034aec6405b2acb') in 0.024583 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 42.163027 seconds.
+  path: Assets/Imported Assets/Oode studios/Lowpoly nature/Prefabs/Fire PS/Fire_PSys.prefab
+  artifactKey: Guid(b5c4d598badfa5645855c4c8be16818f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Oode studios/Lowpoly nature/Prefabs/Fire PS/Fire_PSys.prefab using Guid(b5c4d598badfa5645855c4c8be16818f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a351c351bbaf5955b3b0cab225036089') in 0.037423 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.018189 seconds.
+  path: Assets/Imported Assets/Oode studios/Lowpoly nature/Materials/Fire_PSys_Material.mat
+  artifactKey: Guid(0b86e1ad9748f9d468be6eb92f2afda6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Oode studios/Lowpoly nature/Materials/Fire_PSys_Material.mat using Guid(0b86e1ad9748f9d468be6eb92f2afda6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e808a39695d70a50be3242a27c13c843') in 0.041517 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
