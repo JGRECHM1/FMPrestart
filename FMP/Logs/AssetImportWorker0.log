@@ -2157,3 +2157,239 @@ Received Import Request.
 Start importing Assets/Imported Assets/Oode studios/Lowpoly nature/Materials/Fire_PSys_Material.mat using Guid(0b86e1ad9748f9d468be6eb92f2afda6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e808a39695d70a50be3242a27c13c843') in 0.041517 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.327 seconds
+Refreshing native plugins compatible for Editor in 2.53 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.540 seconds
+Domain Reload Profiling: 865ms
+	BeginReloadAssembly (131ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (46ms)
+	RebuildCommonClasses (21ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (21ms)
+	LoadAllAssembliesAndSetupDomain (146ms)
+		LoadAssemblies (190ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (15ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (5ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (540ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (241ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (39ms)
+			ProcessInitializeOnLoadAttributes (180ms)
+			ProcessInitializeOnLoadMethodAttributes (13ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (4ms)
+Refreshing native plugins compatible for Editor in 2.35 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3186 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 27 unused Assets / (318.5 KB). Loaded Objects now: 3827.
+Memory consumption went from 202.3 MB to 202.0 MB.
+Total: 1.935000 ms (FindLiveObjects: 0.158900 ms CreateObjectMapping: 0.073400 ms MarkObjects: 1.637300 ms  DeleteObjects: 0.064300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 622.199542 seconds.
+  path: Assets/Imported Assets/HeneGames
+  artifactKey: Guid(9c0f79f4e75c8ca4189aac4a5d72bb60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/HeneGames using Guid(9c0f79f4e75c8ca4189aac4a5d72bb60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6aeb79b319f9284fd221c9700109b3e5') in 0.003797 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.286 seconds
+Refreshing native plugins compatible for Editor in 2.21 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.552 seconds
+Domain Reload Profiling: 835ms
+	BeginReloadAssembly (99ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (19ms)
+	RebuildCommonClasses (20ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (20ms)
+	LoadAllAssembliesAndSetupDomain (139ms)
+		LoadAssemblies (176ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (15ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (4ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (552ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (234ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (36ms)
+			ProcessInitializeOnLoadAttributes (176ms)
+			ProcessInitializeOnLoadMethodAttributes (12ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (4ms)
+Refreshing native plugins compatible for Editor in 2.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3186 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 27 unused Assets / (318.5 KB). Loaded Objects now: 3830.
+Memory consumption went from 204.2 MB to 203.9 MB.
+Total: 1.878000 ms (FindLiveObjects: 0.149000 ms CreateObjectMapping: 0.061300 ms MarkObjects: 1.602000 ms  DeleteObjects: 0.064500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 30.829716 seconds.
+  path: Assets/Imported Assets/HeneGames/Dialogue System/Animators
+  artifactKey: Guid(62772b5468a996649b8af5e531ffda99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/HeneGames/Dialogue System/Animators using Guid(62772b5468a996649b8af5e531ffda99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e901b3cdd793c7bd44558ef8d33fe941') in 0.003378 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 13.784315 seconds.
+  path: Assets/Imported Assets/HeneGames/Dialogue System/Documentation/Dialogue System Documentation.pdf
+  artifactKey: Guid(634121e1e64410741adaa1fc83c51324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/HeneGames/Dialogue System/Documentation/Dialogue System Documentation.pdf using Guid(634121e1e64410741adaa1fc83c51324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a687f80ac3f45593de6e00331511d74') in 0.007486 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 53.484856 seconds.
+  path: Assets/Imported Assets/HeneGames/Dialogue System/Scripts/DialogueTrigger.cs
+  artifactKey: Guid(9da6c51194ab84042bc718fd8ead8aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/HeneGames/Dialogue System/Scripts/DialogueTrigger.cs using Guid(9da6c51194ab84042bc718fd8ead8aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd41ca6ac86bf8b5dd01fc9b2510044cd') in 0.000494 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 160.175193 seconds.
+  path: Assets/Imported Assets/HeneGames/Dialogue System/Characters/Elrataz.asset
+  artifactKey: Guid(3e5e644d8d5725941b79d3277f39cbc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/HeneGames/Dialogue System/Characters/Elrataz.asset using Guid(3e5e644d8d5725941b79d3277f39cbc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01c0607318edd602c61828bee1900a5e') in 0.001376 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000418 seconds.
+  path: Assets/Imported Assets/HeneGames/Dialogue System/Characters/Tutorial.asset
+  artifactKey: Guid(9624ffe5663bfbd4fa77a5da6ae3df8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/HeneGames/Dialogue System/Characters/Tutorial.asset using Guid(9624ffe5663bfbd4fa77a5da6ae3df8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de2443ec3771c8dc80d7c23fa323c9ed') in 0.000841 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Imported Assets/HeneGames/Dialogue System/Characters/Villager.asset
+  artifactKey: Guid(0779ef71b4ee2b94791b1a73fb6de447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/HeneGames/Dialogue System/Characters/Villager.asset using Guid(0779ef71b4ee2b94791b1a73fb6de447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff5fce511555181ffa556c8497cc2b47') in 0.000737 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 23.567208 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a4fe85251aa2e89732c359432baa2c3') in 0.000520 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 10.562957 seconds.
+  path: Assets/Dialogue Characters]#
+  artifactKey: Guid(78c96beee5b7dfa4fa2338851ee13a8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dialogue Characters]# using Guid(78c96beee5b7dfa4fa2338851ee13a8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbdc7867f6638510c4db9a341e83d36b') in 0.000380 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 4.017889 seconds.
+  path: Assets/Dialogue Characters
+  artifactKey: Guid(78c96beee5b7dfa4fa2338851ee13a8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dialogue Characters using Guid(78c96beee5b7dfa4fa2338851ee13a8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca1048dccbbda8301b8ab0563852e6ba') in 0.000405 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 5.287742 seconds.
+  path: Assets/Dialogue Characters/Player.asset
+  artifactKey: Guid(0cf18a286e0abd64794fc8b385544036) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dialogue Characters/Player.asset using Guid(0cf18a286e0abd64794fc8b385544036) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51320d1594d99d176a027b1040ec0e7a') in 0.000727 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 7.374427 seconds.
+  path: Assets/Dialogue Characters/Leonidas.asset
+  artifactKey: Guid(75320c07e65cfce49a5a5f1e1a49e1a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dialogue Characters/Leonidas.asset using Guid(75320c07e65cfce49a5a5f1e1a49e1a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cce02070512d0d459bb635288e98f11b') in 0.000750 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 6.050679 seconds.
+  path: Assets/Dialogue Characters/PlayerCharacter.asset
+  artifactKey: Guid(0cf18a286e0abd64794fc8b385544036) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dialogue Characters/PlayerCharacter.asset using Guid(0cf18a286e0abd64794fc8b385544036) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54555227e3e26eb12c9c6e6fc99abf2c') in 0.000806 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
