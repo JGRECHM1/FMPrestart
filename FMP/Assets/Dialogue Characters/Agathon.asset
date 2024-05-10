@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f4a308dae7ffd048a8b0eb8d5ae4a02, type: 3}
   m_Name: Agathon
   m_EditorClassIdentifier: 
-  characterPhoto: {fileID: 0}
-  characterName: 
+  characterPhoto: {fileID: 21300000, guid: 1a6428508700e9f4584477781eac18be, type: 3}
+  characterName: Agathon the Armourer
