@@ -1833,3 +1833,35 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 3402.621453 seconds.
+  path: Assets/Dialogue Characters/Hippolytes.asset
+  artifactKey: Guid(83a8a0df082cc8b43bd77d9ceff10bf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dialogue Characters/Hippolytes.asset using Guid(83a8a0df082cc8b43bd77d9ceff10bf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b29271380fb94d9e711ca824335d1304') in 0.016577 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 322.659079 seconds.
+  path: Assets/Character Pictures/Hippolytes.jpg
+  artifactKey: Guid(d276281d343a58f4e8014f1c8bbecb7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Character Pictures/Hippolytes.jpg using Guid(d276281d343a58f4e8014f1c8bbecb7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3677b06ef51fd3fde368e86cea3fbf88') in 0.035206 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 2.867749 seconds.
+  path: Assets/Character Pictures/Hippolytes.jpg
+  artifactKey: Guid(d276281d343a58f4e8014f1c8bbecb7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Character Pictures/Hippolytes.jpg using Guid(d276281d343a58f4e8014f1c8bbecb7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ff8d15dffe234fe9368f9c67f19f7bd') in 0.029667 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 20.164852 seconds.
+  path: Assets/Dialogue Characters/War Banner.asset
+  artifactKey: Guid(0e03f75ce0fec5b45aee7b032ee0342b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dialogue Characters/War Banner.asset using Guid(0e03f75ce0fec5b45aee7b032ee0342b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a6df690b4ab474db733cc080115c9a4') in 0.001148 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
