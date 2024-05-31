@@ -412,6 +412,7 @@
 "Assets/Imported Assets/HeneGames/Dialogue System/Scripts/Movement2D.cs"
 "Assets/Imported Assets/HeneGames/Dialogue System/Scripts/SimpleNavAgentAnimation.cs"
 "Assets/Scripts/FPSController.cs"
+"Assets/Scripts/GameManage.cs"
 "Assets/Scripts/MainMenu.cs"
 "Assets/Scripts/Patrolling.cs"
 -langversion:9.0
